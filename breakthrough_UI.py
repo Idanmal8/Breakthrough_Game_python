@@ -1,8 +1,3 @@
-#Help me build a GUI for my game of Breakthrough
-# I want to be able to play against the computer
-# I want to be able to play against another human
-
-
 import tkinter as tk
 
 BOARD_SIZE = 8
